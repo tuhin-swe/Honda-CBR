@@ -1,0 +1,35 @@
+/*--------------
+ Font Style 
+ --------------*/
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+ body{
+     font-family: 'Poppins', sans-serif;
+ }
+ .header-background-colour{
+     background-color: #264653;
+ }
+ .button-background-colour{
+     background-color: #E76F51;
+     width: 168px;
+ }
+ .colourful-font {
+     color: #E76F51;
+ }
+ .grayscale-image{
+     filter: grayscale(100%);
+ }
+ .fa-star.filled, .fa-star.empty{
+     color: #E77C40;
+ }
+ .video-part{
+     background-color: lightgoldenrodyellow;
+ }
+ .update-button{
+     background-color: brown;
+     padding-left: auto;
+ }
+ .footer-background-colour{
+     width: auto;
+     padding: 50px;
+     background-color: lightgrey;
+ }
